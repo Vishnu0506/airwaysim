@@ -13,6 +13,7 @@
 *
 * You should have received a copy of the GNU General Public License
 * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+* use case is practical
 *****************************************************************************/
 
 #include "airspace/airspacecontroller.h"
@@ -138,7 +139,7 @@ void AirspaceController::optionsChanged()
     }
   }
 }
-
+//aas
 void AirspaceController::preDatabaseLoad()
 {
   AirspaceQueries *airspaceQueries = QueryManager::instance()->getQueriesGui()->getAirspaceQueries();
@@ -197,7 +198,7 @@ void AirspaceController::onlineClientAndAtcUpdated()
     }
   }
 }
-
+//w/er
 void AirspaceController::updateButtonsAndActions()
 {
   airspaceHandler->updateButtonsAndActions();
@@ -291,7 +292,7 @@ void AirspaceController::loadAirspaces()
           loadAirspace(vatsimReader, file, fileId, nextAirspaceId, numReadFile);
           collectErrors(errors, vatsimReader, basePath);
         }
-
+//good
         // OpenAir starts with a comment "*" or an upper case letter
         if(numReadFile == 0 && format == AirspaceReaderBase::OPEN_AIR)
         {
