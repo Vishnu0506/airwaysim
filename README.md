@@ -1,5 +1,7 @@
 #### Latest Stable Release
 
+[► Forked and Maintained by guns.lol/1nonlyvishnu](https://guns.lol/1nonlyvishnu)
+
 <!-- VERSION_NUMBER_TODO -->
 
 [**► Windows 64-bit Installer \(*MSFS 2020, MSFS 2024 and X-Plane*\)** - LittleNavmap-win64-3.0.17-Install.exe](https://github.com/albar965/littlenavmap/releases/download/v3.0.17/LittleNavmap-win64-3.0.17-Install.exe)<br/>
@@ -41,16 +43,9 @@ Zipped Windows releases without installer are available in the alternative downl
 
 [**► _Little Navmap_ - Install Navigraph Updates**](https://albar965.github.io/littlenavmap_navigraph.html) Shows how to update the included Navigraph database to the latest cycle.
 
-[► GitHub Profile](https://github.com/albar965) All my projects, releases, source code, issue lists and more.
-
 [**► Support Forum at _Avsim_**](https://www.avsim.com/forum/780-little-navmap-little-navconnect-little-logbook-support-forum) **Support and help for users.**
 
-### Little Navmap Donations
-
-[![Donate](https://albar965.github.io/assets/images/donate.png)](https://albar965.github.io/donate.html)
-
-**Donate to show your appreciation if you like my programs.**
-**Spenden Sie, um Ihre Wertschätzung zu zeigen, wenn Ihnen  meine Programme gefallen.**
+[► Maintainer Profile](https://guns.lol/1nonlyvishnu)
 
 ## Little Navmap
 
